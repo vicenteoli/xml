@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Mi Blog de Tecnología</title>
+  <link href="https://www.ejemplo.com"/>
+  <updated>2026-01-16T19:00:00Z</updated>
+  <id>https://www.ejemplo.com/</id>
+  <author>
+    <name>Equipo Editorial</name>
+  </author>
+
+  <entry>
+    <title>Cómo aprender Python en 2026</title>
+    <link href="https://www.ejemplo.com/articulos/aprender-python"/>
+    <id>https://www.ejemplo.com/articulos/aprender-python</id>
+    <updated>2026-01-16T10:00:00Z</updated>
+    <summary>Una guía completa con recursos gratuitos para dominar Python este año.</summary>
+  </entry>
+
+  <entry>
+    <title>Reseña: El nuevo ordenador cuántico portátil</title>
+    <link href="https://www.ejemplo.com/reviews/ordenador-cuantico"/>
+    <id>https://www.ejemplo.com/reviews/ordenador-cuantico</id>
+    <updated>2026-01-15T14:30:00Z</updated>
+    <summary>Analizamos el rendimiento y la batería del dispositivo más esperado.</summary>
+  </entry>
+
+  <entry>
+    <title>10 Trucos de CSS que no conocías</title>
+    <link href="https://www.ejemplo.com/tutoriales/trucos-css"/>
+    <id>https://www.ejemplo.com/tutoriales/trucos-css</id>
+    <updated>2026-01-14T09:15:00Z</updated>
+    <summary>Mejora tus diseños web con estas propiedades avanzadas de CSS.</summary>
+  </entry>
+
+</feed>
